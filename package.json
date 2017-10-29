@@ -1,0 +1,23 @@
+{
+  "name": "omdb-request",
+  "version": "1.0.0",
+  "description": "My Class",
+  "main": "omdbRequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Emil Ashford",
+  "license": "ISC",
+  "dependencies": {
+    "geocoder": "^0.2.3",
+    "inquirer": "^3.3.0",
+    "node-geocoder": "^3.21.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {}
+}
